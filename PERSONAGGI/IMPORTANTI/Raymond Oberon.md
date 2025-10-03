@@ -1,0 +1,1 @@
+Padre id [[Onyx Oberon]], crede che suo figlio sia un debole e vuole liberarlo a tutti i costi dall'incantesimo. 

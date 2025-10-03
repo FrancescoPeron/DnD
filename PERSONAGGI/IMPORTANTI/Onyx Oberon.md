@@ -1,0 +1,1 @@
+Figlio di [[Raymond Oberon]], è stato soggiogato dal charm di [[Isabelle Gant]] per poter prendere il controllo della città. Egli però era già innamorato dell ragazza, quindi si è lasciato sopraffare per amore verso di lei. Alla morte di lei, lui cercherà con tutte le su e abilità di uccidere i colpevoli, oppure scapperà e farà un agguato durante l'[[ATTO 3]] contro il party.
