@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"897fe10edbf9b950","type":"text","text":"I tre artefatti dello stregone","x":-160,"y":-260,"width":250,"height":80,"color":"2"},
+		{"id":"17186a94416368cf","type":"text","text":"**Prisma esotico :**\nPermette di usare \"scudo/silenzio/globo\" di invulnerabilità una volta sul possessore.\nRicaricabile con un slot di 3/4 livello.","x":-440,"y":-40,"width":250,"height":240,"color":"3"},
+		{"id":"48ad00ccfbb3e186","type":"text","text":"**Bastone dell'albero della vita :**\nPermette di castare \"crescita di rovi\" una volta per riposo breve.\nFornisce +1 ai tiri per colpire degli incantesimi","x":-160,"y":-40,"width":250,"height":240,"color":"3"},
+		{"id":"f5f6f616af92937a","type":"text","text":"**Bracciali dell'impavido :**\nSe il possessore non indossa una armatura, fornisce +2 alla AC e resistenza ai danni da tagliente.","x":120,"y":-40,"width":250,"height":240,"color":"3"},
+		{"id":"89792a7affb2e517","type":"text","text":"Trovato nelle rovine di un tempio","x":-440,"y":270,"width":250,"height":65},
+		{"id":"997ab37b41a2e92f","type":"text","text":"In possesso di un gruppo di cultisti, che viene trasferito verso la capitale","x":-160,"y":270,"width":250,"height":130},
+		{"id":"5ab1741f2681faf5","type":"text","text":"In possesso del BBEG","x":120,"y":270,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"9ad1d1c9b8fc702c","fromNode":"897fe10edbf9b950","fromSide":"bottom","toNode":"17186a94416368cf","toSide":"top"},
+		{"id":"8f60fbe4604d9d0b","fromNode":"897fe10edbf9b950","fromSide":"bottom","toNode":"48ad00ccfbb3e186","toSide":"top"},
+		{"id":"ec633dbb710827c9","fromNode":"897fe10edbf9b950","fromSide":"bottom","toNode":"f5f6f616af92937a","toSide":"top"},
+		{"id":"c74ad7dc63f62284","fromNode":"17186a94416368cf","fromSide":"bottom","toNode":"89792a7affb2e517","toSide":"top"},
+		{"id":"bc810344910fab1f","fromNode":"48ad00ccfbb3e186","fromSide":"bottom","toNode":"997ab37b41a2e92f","toSide":"top"},
+		{"id":"9f3dd35c95ad9eea","fromNode":"f5f6f616af92937a","fromSide":"bottom","toNode":"5ab1741f2681faf5","toSide":"top"}
+	]
+}

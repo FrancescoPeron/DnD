@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.inFolder("Immagini")
+views:
+  - type: cards
+    name: View
+    filters:
+      and:
+        - file.ext == "png"
+    sort:
+      - property: file.folder
+        direction: ASC
+    image: file.file

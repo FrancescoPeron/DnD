@@ -1,0 +1,10 @@
+- **Casa dei Valori:** Un nome che suggerisce una casata con una forte tradizione di onore, coraggio o rettitudine. Potrebbero essere noti per i loro cavalieri o per la loro saggezza nel governo.
+- **Casa della Roccia Antica:** Indica una casata con radici profonde nella storia di Ardin, forse discendenti da eroi o re antichi. Potrebbero essere orgogliosi della loro stirpe e delle loro terre ancestrali.
+- **Casa del Boscorivo Splendente:** Un nome che lega la casata a una regione prospera e vitale del regno, magari ricca di risorse naturali o con un importante fiume. Potrebbero essere noti per la loro ricchezza e influenza commerciale.
+- **Casa della Torre d'Argento:** Evoca un simbolo di potere e prestigio, forse una fortezza imponente o una torre di guardia strategica. Potrebbero essere noti per la loro abilità militare o per la loro astuzia politica.
+- **Casa del Leone Rampante:** Un nome araldico classico che suggerisce una casata fiera, potente e guerriera. Potrebbero aver avuto un ruolo significativo nelle guerre o nella difesa del regno.
+- **Casa della Fonte della Saggezza:** Indica una casata nota per la sua erudizione, i suoi consiglieri saggi o la sua patronizzazione delle arti e delle scienze.
+- **Casa dello Scudo Spezzato:** Un nome che suggerisce una storia di sacrificio o di aver subito grandi perdite in passato, ma che ha saputo risollevarsi con onore. Potrebbero essere rispettati per la loro resilienza e lealtà.
+- **Casa del Falco Pellegrino:** Un nome che evoca nobiltà, agilità e lungimiranza. Potrebbero essere noti per la loro abilità nella caccia, nella strategia militare o nella diplomazia.
+- **Casa dei Sette Fiumi:** Indica una casata che controlla terre attraversate da importanti corsi d'acqua, conferendo loro potere economico e strategico.
+- **Casa della Luna Silente:** Un nome più misterioso e forse legato a tradizioni antiche, magia o una particolare venerazione.

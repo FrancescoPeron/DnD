@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.inFolder("Party")
+views:
+  - type: cards
+    name: View
+    image: note.Art
+    imageFit: ""
+    cardSize: 180

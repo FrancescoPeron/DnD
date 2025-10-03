@@ -1,0 +1,3 @@
+Questa bussola non ha un ago magnetico al proprio interno, ma una leggera quantità di sangue che funge da ago. La quantità di sangue che si sposta è in relazione alla vicinanza del sangue speciale ideato da [[Xenophilious Gant]] contenuta in quella persona(non funziona su [[Xenophilious Gant]] perché non ha più sangue nelle vene, avendolo somministrato tutto alla sua prole.
+
+Mostrerà i tre figli di Gant, Alvas ,la dimora Gant, dove sono tenuti alcuni bastardi che vengono usati come cavie da [[Richard Gant]], e i figli di Lucius. Solo questi perché solo loro hanno un sangue speciale nel loro corpo, che dà loro poteri innati.

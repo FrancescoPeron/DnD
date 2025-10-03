@@ -1,0 +1,3 @@
+Casata che ha spodestato la famiglia Gant dal potere di [[Pietra di Shor]] e ha assunto il controllo della città. Essa attualmente sta soffrendo il tracollo della contea, a causa del drago che ha bloccato la montagna. 
+
+Si è dovuta riaffidare ai [[Paladini di Gant]] per gestire l'ondata di creature che sta attaccando villaggi e città. Inoltre sta preparando una spedizione per andare a cacciare il drago sulle montagne (sarà fallimentare).
